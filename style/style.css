@@ -97,3 +97,45 @@
 .banner-img img{
     vertical-align: middle;
 }
+
+/* About Section Style */
+#about{
+    padding: 100px 0px;
+}
+
+.about{
+    padding: 130px 150px;
+    border-radius: 10px;
+    background-color: #FFF8F3;
+}
+
+
+
+.about-content{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.about-content h3{
+    font-size: 35px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+.about-content p{
+    font-size: 18px;
+    line-height: 30px;
+    color:#757575;
+}
+.about-card{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    text-align: center;
+    gap:20px
+}
+
+.about-card p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    line-height: 30px;
+}
